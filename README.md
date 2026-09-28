@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check https://pro
 
 
 
-Published as Volume 285 by the Proceedings of Machine Learning Research on 15 June 2024.
+Published as Volume 285 by the Proceedings of Machine Learning Research on 15 June 2025.
 
 Volume Edited by:
   * Marco Fumero

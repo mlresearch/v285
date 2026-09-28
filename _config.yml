@@ -6,7 +6,7 @@ year: '2024'
 volume: '285'
 start: &1 2024-12-14
 end: 2024-12-14
-published: 2024-06-15
+published: 2025-06-15
 layout: proceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
@@ -34,7 +34,7 @@ description: |
   Proceedings of UniReps: the Second Edition of the Workshop on Unifying Representations in Neural Models
     Held in Vancouver Convention Center,Vancouver, Canada on 14 December 2024
 
-  Published as Volume 285 by the Proceedings of Machine Learning Research on 15 June 2024.
+  Published as Volume 285 by the Proceedings of Machine Learning Research on 15 June 2025.
 
   Volume Edited by:
     Marco Fumero

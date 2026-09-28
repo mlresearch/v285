@@ -43,7 +43,7 @@ author:
   family: Lizotte
 - given: Yalda
   family: Mohsenzadeh
-date: 2024-06-15
+date: 2025-06-15
 address:
 container-title: 'Proceedings of UniReps: the Second Edition of the Workshop on Unifying
   Representations in Neural Models'
