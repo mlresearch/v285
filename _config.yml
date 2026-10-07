@@ -4,7 +4,7 @@ booktitle: 'Proceedings of UniReps: the Second Edition of the Workshop on Unifyi
 shortname: UniReps
 year: '2024'
 volume: '285'
-start: &1 2024-12-14
+start: 2024-12-14
 end: 2024-12-14
 published: 2025-06-15
 layout: proceedings
@@ -83,7 +83,7 @@ conference:
   url: https://unireps.org
   location: Vancouver Convention Center,Vancouver, Canada
   dates:
-  - *1
+  - 2024-12-14
 analytics:
   google:
     tracking_id: UA-92432422-1
